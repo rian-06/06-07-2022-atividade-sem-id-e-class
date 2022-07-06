@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: aliceblue;
+    margin-right: 5%;
+    margin-left: 5%;
+    display: block;
+    border: 1px solid black;
+    width: 90%;
+    height: 450px;
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1711/Morning_river_shore_flying_bird_Scenery_HD_Wallpaper_1366x768.jpg);
+}
+
+h1 {
+    color:honeydew;
+    margin-left: 43%;
+    margin-top: 20%;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+}
+
