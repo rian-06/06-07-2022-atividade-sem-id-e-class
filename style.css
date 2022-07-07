@@ -4,13 +4,16 @@
 
 header {
     background-color: aliceblue;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
     display: block;
     border: 1px solid black;
-    width: 90%;
+    width: 80%;
     height: 450px;
-    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1711/Morning_river_shore_flying_bird_Scenery_HD_Wallpaper_1366x768.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-image: url(https://i.pinimg.com/originals/92/4c/80/924c8056b5cca957bd51ab239a895cd1.jpg);
 }
 
 h1 {
@@ -21,3 +24,30 @@ h1 {
     -webkit-text-stroke-color: #000;
 }
 
+main {
+    background-color: aliceblue;
+    margin-right: 10%;
+    margin-left: 10%;
+    display: block;
+    border: 1px solid black;
+    width: 80%;
+    height: 760px;
+
+}
+
+h2 {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+main p {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+main img {
+    position: center;
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+}
