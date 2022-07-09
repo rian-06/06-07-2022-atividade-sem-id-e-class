@@ -58,7 +58,7 @@ footer {
     margin-right: 10%;
     margin-left: 10%;
     display: block;
-    border: 1px solid black;
+    border: 1px solid peachpuff;
     width: 80%;
     height: 550px;
 }
@@ -66,7 +66,7 @@ footer {
 footer section {
     width: 30%;
     height: 450px;
-    border: 1px solid black;
+    border: 1px solid peachpuff;
     margin-left: 2.5%;
     margin-top: 3%;
     float: left;
@@ -81,11 +81,28 @@ section p {
 text-align: left;
 }
 
-section input { 
+input[name="clic"] { 
      width: 30%;
     height: 40px;
-    border-radius: 20%;
+    border-radius:100%;
     border:1px solid peachpuff;
     background-color: forestgreen;
 }  
 
+input[name="clic2"]{
+    width: 30%;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid peachpuff;
+    background-color: mediumseagreen;
+    margin-top: 2%;
+}
+
+input[name="clic3"]{
+    width: 30%;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid peachpuff;
+    background-color:yellowgreen;
+    margin-top: 2%;
+}
